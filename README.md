@@ -4,4 +4,5 @@
 
 #### 07/05/1997
 
-#### Seoul National University of Science & Technology (Manufacturing System & Design Engineering)
+#### Seoul National University of Science & Technology
+##### (Manufacturing System & Design Engineering)
