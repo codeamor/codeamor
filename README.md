@@ -6,3 +6,5 @@
 
 #### Seoul National University of Science & Technology
 ##### (Manufacturing System & Design Engineering)
+
+### [Resume](https://www.notion.so/Sumin-Son-a326dc91a28f4c4588e91b60ad6703fa)
