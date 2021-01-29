@@ -2,6 +2,8 @@
 
 ![codeamor's github stats](https://github-readme-stats.vercel.app/api?username=codeamor&count_private=true&show_icons=true&theme=jolly)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeamor&layout=compact&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 07/05/1997
 
 #### Seoul National University of Science & Technology
