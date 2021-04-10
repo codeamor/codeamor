@@ -4,5 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeamor&layout=compact&langs_count=8&hide_title=true&theme=jolly)](https://github.com/codeamor/github-readme-stats)
 
-#### Seoul National University of Science & Technology
-##### (Manufacturing System & Design Engineering)
+#### Seoul National University of Science & Technology (2016 ~)
+#### Northumbria University, Newcastle, United Kingdom (dual degree / 2016 ~)
